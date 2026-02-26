@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.1.0/git-janitor_Windows_x86_64.zip",
+            "bin": [
+                "git-janitor.exe"
+            ],
+            "hash": "e4cdb7f904fd27fcb765040dbeb201b0bb5419a2abc97c0cd63e27e62cf49ef6"
+        },
+        "arm64": {
+            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.1.0/git-janitor_Windows_arm64.zip",
+            "bin": [
+                "git-janitor.exe"
+            ],
+            "hash": "f5fe1a3fa2e4da88e25ace005c35072b848667dcb14a9f215b976a8258cba71f"
+        }
+    },
+    "homepage": "https://github.com/jvherck/git-janitor",
+    "license": "MIT",
+    "description": "A fast, interactive TUI for cleaning up local Git branches."
+}
