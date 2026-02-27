@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.1.4/git-janitor_Windows_x86_64.zip",
+            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.2.0/git-janitor_Windows_x86_64.zip",
             "bin": [
                 "git-janitor.exe"
             ],
-            "hash": "02a7deb01cd079ca32e33dd6114f1ad7d456d2e5a646c09fb2ee54382077c740"
+            "hash": "126c0479908b5b2e7346bad2f64b6101c53cc82e7a6eff259d07f0db28dc00be"
         },
         "arm64": {
-            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.1.4/git-janitor_Windows_arm64.zip",
+            "url": "https://github.com/jvherck/git-janitor/releases/download/v0.2.0/git-janitor_Windows_arm64.zip",
             "bin": [
                 "git-janitor.exe"
             ],
-            "hash": "0e5d4c795a4dda83b1bfb77b47fa3400d95b708e0f3f610095f22d0fc118952b"
+            "hash": "f2a2f0f70cd7d1fa5c809c774a3a04956bcb5d04effec9c5267dd77ff16be5aa"
         }
     },
     "homepage": "https://github.com/jvherck/git-janitor",
